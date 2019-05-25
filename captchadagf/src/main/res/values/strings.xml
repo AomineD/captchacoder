@@ -1,0 +1,8 @@
+<resources>
+    <string name="title_dias">Comprueba que no eres robot</string>
+    <string name="acceptd">Verificar</string>
+    <string name="canceld">Cancelar</string>
+    <string name="writeco">Escribe el captcha</string>
+
+
+</resources>
