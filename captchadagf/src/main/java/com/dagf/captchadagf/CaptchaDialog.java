@@ -131,7 +131,7 @@ getData();
     /** =========================== GET DATA FROM SERVER =================================== **/
     private String valuereal;
     private void getData() {
-        String urr = "http://wineberryhalley.com/secure/api/captcha/?getCaptcha";
+        String urr = "https://bajarmusicagratis.online/captcha/?getCaptcha";
 
 
         RequestQueue queue = Volley.newRequestQueue(getContext());
